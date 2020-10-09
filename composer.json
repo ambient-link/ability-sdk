@@ -17,5 +17,10 @@
             "name": "Robin Lehrmann",
             "email": "robin.lehrmann@developer.nrw"
         }
-    ]
+    ],
+    "config": {
+        "platform": {
+            "php": "7.2"
+        }
+    }
 }
