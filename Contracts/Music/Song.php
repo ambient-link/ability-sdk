@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Infrastructure\AmbientLink\SDK\Contracts\Music;
+namespace AmbientLink\SDK\Contracts\Music;
 
 final class Song
 {

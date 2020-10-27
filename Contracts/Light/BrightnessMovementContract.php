@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Infrastructure\AmbientLink\SDK\Contracts\Light;
+namespace AmbientLink\SDK\Contracts\Light;
 
 /**
  * Instead of setting a brightness by value, you can also move it and stop it after a certain time

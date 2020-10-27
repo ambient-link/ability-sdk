@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace AmbientLink\SDK;
 
 use AmbientLink\SDK\Mqtt\Topic;
-use App\Infrastructure\AmbientLink\SDK\Mqtt\MqttAdapter;
+use AmbientLink\SDK\Mqtt\MqttAdapter;
 use PhpMqtt\Client\ConnectionSettings;
 use PhpMqtt\Client\MQTTClient;
 use Psr\Log\LoggerInterface;

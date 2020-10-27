@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Infrastructure\AmbientLink\SDK\Mqtt;
+namespace AmbientLink\SDK\Mqtt;
 
 final class MqttTopicToTypeException extends \DomainException
 {

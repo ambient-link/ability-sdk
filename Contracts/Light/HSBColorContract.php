@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Infrastructure\AmbientLink\SDK\Contracts\Light;
+namespace AmbientLink\SDK\Contracts\Light;
 
 final class HSBColorContract
 {

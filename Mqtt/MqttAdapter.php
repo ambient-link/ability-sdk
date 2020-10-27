@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Infrastructure\AmbientLink\SDK\Mqtt;
+namespace AmbientLink\SDK\Mqtt;
 
 use AmbientLink\SDK\Mqtt\Topic;
 use PhpMqtt\Client\ConnectionSettings;
