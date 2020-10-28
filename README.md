@@ -1,4 +1,3 @@
 # ability-sdk
 
-## PHP SDK
-
+php-sdk
